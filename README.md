@@ -1,5 +1,5 @@
-## Hi there 👋
-JeanFrancoisBrunet 👋 Bonjour, Consultant, formateur et auteur en Lean Management · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes. J'aide les équipes à mieux faire circuler leurs flux physiques et d'information, à résoudre leurs problèmes (analyse de racines-causes) et à progresser avec le Lean Management, par le learning by doing.
+## Hi there 👋 JeanFrancoisBrunet 
+👋 Bonjour, Consultant, formateur et auteur en Lean Management · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes. J'aide les équipes à mieux faire circuler leurs flux physiques et d'information, à résoudre leurs problèmes (analyse de racines-causes) et à progresser avec le Lean Management, par le learning by doing.
 
 🎯 Ce que je fais Conseil via JFBConseils : déployé de démarches Lean, cartographie des flux (VSM), flux tirés, Kanban, SMED, 5S, résolution de problèmes (A3, 8D, PDCA). Formation : jeux pédagogiques et mises en situation (jeu des flux poussés/tirés, jeu des allumettes, DOE avec la pratique d'une catapulte). Enseignement : Université de Caen, Université Paris Dauphine, écoles d'ingénieurs ENSI-Caen. Conférences : intervenant au Lean Summit France (Institut Lean France). 📖 Mon livre « Le Joueur de Flux » , avec Corinne Le Bars (L'Harmattan, collection Management Lean, juin 2022). Un récit d'apprentissage où Jef, chargé de déployer l'Excellence Opérationnelle dans un groupe international, découvre le Lean à travers ses senseis, des jeux et des cas concrets.
 
