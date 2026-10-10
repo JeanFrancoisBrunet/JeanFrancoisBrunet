@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Jean-François Brunet
 
-**Consultant, formateur et auteur en Lean Management** · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes.
+**Consultant, Enseignant et Auteur en Lean Management** · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes.
 
 J'aide les équipes à mieux faire circuler leurs flux physiques et d'information, à résoudre leurs problèmes (analyse de causes racines) et à progresser avec le Lean Management, par le *learning by doing*.
 
@@ -27,20 +27,20 @@ Un récit d'apprentissage où Jef, chargé de déployer l'Excellence Opérationn
 
 Quand je ne fais pas de Lean, je développe des outils pour mon Raspberry Pi 5 :
 
-| Projet                                     | Descriptif                                                                                                |
-|:--                                         |:--                                                                                                        |
-| 🤖 **Agent Groq**                          | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                              |
-| 🎯 **Mesure distance (catapulte)**         | Mesure automatisée de distance de lancer pour des formations Lean Six Sigma / DOE                         |
-| 💾 **Sauvegarde NVMe**                     | Sauvegarde d'un SSD NVMe 1To vers USB/SD                                                                  |
-| 📈 **Tableau de bord Boursier**            | Tableau de bord boursier (Tkinter) + bot Telegram                                                         |
-| 🎲 **Tableau de bord Loto**                | Historique et analyse des tirages du Loto (Tkinter)                                                       |
-| 🧠 **LLM Raspberry Pi 5**                  | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama                                     |
-| 📷 **Caméras Sony IMX...**                 | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion |
-| 🎙️ **Studio audio, synthèse vocale**       | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper)                    |
-| 🛡️ **Protection Pi 5**                     | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                      |
-| 🦾 **Reachy Mini**                         | Intégration du robot Reachy Mini Wireless avec mon agent IA                                               |
+| Projet                                  | Descriptif                                                                                                 |
+|:--                                      |:--                                                                                                         |
+| 🤖 **Agent Groq**                       | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                               |
+| 🎯 **Mesure Distance (catapulte)**      | Mesure automatisée de distance de lancer dans le cadre de formations Lean Six Sigma / DOE                  |
+| 💾 **Sauvegarde NVMe**                  | Sauvegarde d'un SSD NVMe 1To vers USB/SD                                                                   |
+| 📈 **Tableau de bord Boursier**         | Tableau de bord boursier (Tkinter) + bot Telegram                                                          |
+| 🎲 **Tableau de bord Loto**             | Historique et analyse des tirages du Loto (Tkinter)                                                        |
+| 🧠 **LLM Raspberry Pi 5**               | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama                                      |
+| 📷 **Caméras Sony IMX...**              | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion  |
+| 🎙️ **Audio / Synthèse vocale**          | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper)                     |
+| 🛡️ **Protection Pi 5**                  | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                       |
+| 🦾 **Reachy Mini**                      | Intégration du robot Reachy Mini Wireless avec mon agent IA                                                |
 
-**Technologies :** `Python` · `Tkinter` · `Bash` · `Raspberry Pi` · `Ollama` · `Groq` · `Bot Telegram` · `WireGuard`
+**Technologies :** `Linux` · `Python` · `Tkinter` · `Bash` · `Raspberry Pi` · `Ollama` · `Groq` · `Bot Telegram` · `WireGuard`
 
 ---
 
