@@ -1,26 +1,29 @@
 ## Hi there 👋 JeanFrancoisBrunet 
-👋 Bonjour, Consultant, formateur et auteur en Lean Management · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes. J'aide les équipes à mieux faire circuler leurs flux physiques et d'information, à résoudre leurs problèmes (analyse de racines-causes) et à progresser avec le Lean Management, par le learning by doing.
+
+Consultant, formateur et auteur en Lean Management · Plus de 35 ans d'expérience au service de l'industrie et de grands groupes. J'aide les équipes à mieux faire circuler leurs flux physiques et d'information, à résoudre leurs problèmes (analyse de racines-causes) et à progresser avec le Lean Management, par le learning by doing.
 
 🎯 Ce que je fais Conseil via JFBConseils : déployé de démarches Lean, cartographie des flux (VSM), flux tirés, Kanban, SMED, 5S, résolution de problèmes (A3, 8D, PDCA). Formation : jeux pédagogiques et mises en situation (jeu des flux poussés/tirés, jeu des allumettes, DOE avec la pratique d'une catapulte). Enseignement : Université de Caen, Université Paris Dauphine, écoles d'ingénieurs ENSI-Caen. Conférences : intervenant au Lean Summit France (Institut Lean France). 📖 Mon livre « Le Joueur de Flux » , avec Corinne Le Bars (L'Harmattan, collection Management Lean, juin 2022). Un récit d'apprentissage où Jef, chargé de déployer l'Excellence Opérationnelle dans un groupe international, découvre le Lean à travers ses senseis, des jeux et des cas concrets.
 
 🛠️ Créateur de mes projets (Raspberry Pi 5 & Python) Quand je ne fais pas de Lean, je construis des outils pour mon Raspberry Pi 5 :
 
-Projet | Descriptif | 🤖Agent Groq | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de compétences | 🎯 Mesurer la distance (catapulte) | Mesure automatisée de distance de lancer pour des formations Lean Six Sigma / DOE | 💾 Sauvegarde NVMe | Sauvegarde d'un SSD NVMe vers USB/SD | 📈 Tableau de bord boursier | Tableau de bord boursier Tkinter + bot Telegram | 🎲 Tableau de bord Loto | Historique et analyse des tirages du Loto (Tkinter) | 🧠 LLM Raspberry Pi 5 | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama | 📷 Caméras de pilotage Sony | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion | 🎙️ Studio audio / Studio de synthèse vocale | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper) | 🛡️ Protection PI5 | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance | 🦾Atteindre Mini | Intégration du robot Reachy Mini Wireless avec mon agent IA |
+Projet                                      | Descriptif                                                                                                | 
+🤖 Agent Groq                               | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                              | 
+🎯 Mesurer la distance (catapulte)          | Mesure automatisée de distance de lancer pour des formations Lean Six Sigma / DOE                         |
+💾 Sauvegarde NVMe                          | Sauvegarde d'un SSD NVMe vers USB/SD                                                                      |
+📈 Tableau de bord boursier                 | Tableau de bord boursier (Tkinter) + bot Telegram                                                         |
+🎲 Tableau de bord Loto                     | Historique et analyse des tirages du Loto (Tkinter)                                                       |
+🧠 LLM Raspberry Pi 5                       | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama                                     |
+📷 Caméras de pilotage Sony                 | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion |
+🎙️ Studio audio / Studio de synthèse vocale | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper)                    |
+🛡️ Protection PI5                           | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                      |
+🦾 Reachy Mini                              | Intégration du robot Reachy Mini Wireless avec mon agent IA                                               |
 
 Technologies : Python · Tkinter · Bash · Raspberry Pi · Ollama · Groq · Bot Telegram · WireGuard
 
-🌐 Me retrouver 💼 LinkedIn : [ https://www.linkedin.com/in/jean-fran%C3%A7ois-brunet-lean-management/ ] 🏢 JFBConseils : [( https://www.youtube.com/@lejoueurdeflux )] 📬 Contact : [ jeanfrancois.brunet@outlook.fr ] « Aucun problème n'est un problème ! »
-<!--
-**JeanFrancoisBrunet/JeanFrancoisBrunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Me retrouver 
+💼 LinkedIn : [ https://www.linkedin.com/in/jean-fran%C3%A7ois-brunet-lean-management/ ] 
+🏢 JFBConseils : [( https://www.youtube.com/@lejoueurdeflux )] 
+📬 Contact : [ jeanfrancois.brunet@outlook.fr ] 
 
-Here are some ideas to get you started:
+« Aucun problème n'est un problème ! »
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
