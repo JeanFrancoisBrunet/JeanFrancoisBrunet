@@ -23,22 +23,22 @@ Un récit d'apprentissage où Jef, chargé de déployer l'Excellence Opérationn
 
 ---
 
-## 🛠️ Créateur de mes projets (Raspberry Pi 5 & Python)
+## 🛠️ Créateur de Projets (Raspberry Pi 5 & Python)
 
-Quand je ne fais pas de Lean, je construis des outils pour mon Raspberry Pi 5 :
+Quand je ne fais pas de Lean, je développe des outils pour mon Raspberry Pi 5 :
 
-| Projet | Descriptif |
-|:--|:--|
-| 🤖 **Agent Groq** | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills |
-| 🎯 **Mesurer la distance (catapulte)** | Mesure automatisée de distance de lancer pour des formations Lean Six Sigma / DOE |
-| 💾 **Sauvegarde NVMe** | Sauvegarde d'un SSD NVMe vers USB/SD |
-| 📈 **Tableau de bord boursier** | Tableau de bord boursier (Tkinter) + bot Telegram |
-| 🎲 **Tableau de bord Loto** | Historique et analyse des tirages du Loto (Tkinter) |
-| 🧠 **LLM Raspberry Pi 5** | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama |
-| 📷 **Caméras de pilotage Sony** | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion |
-| 🎙️ **Studio audio / Studio de synthèse vocale** | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper) |
-| 🛡️ **Protection PI5** | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance |
-| 🦾 **Reachy Mini** | Intégration du robot Reachy Mini Wireless avec mon agent IA |
+| Projet                                      | Descriptif                                                                                                |
+|:--                                          |:--                                                                                                        |
+| 🤖 **Agent Groq**                           | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                              |
+| 🎯 **Mesurer la distance (catapulte)**      | Mesure automatisée de distance de lancer pour des formations Lean Six Sigma / DOE                         |
+| 💾 **Sauvegarde NVMe**                      | Sauvegarde d'un SSD NVMe vers USB/SD                                                                      |
+| 📈 **Tableau de bord boursier**             | Tableau de bord boursier (Tkinter) + bot Telegram                                                         |
+| 🎲 **Tableau de bord Loto**                 | Historique et analyse des tirages du Loto (Tkinter)                                                       |
+| 🧠 **LLM Raspberry Pi 5**                   | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama                                     |
+| 📷 **Caméras de pilotage Sony**             | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion |
+| 🎙️ **Studio audio / synthèse vocale**       | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper)                    |
+| 🛡️ **Protection PI5**                       | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                      |
+| 🦾 **Reachy Mini**                          | Intégration du robot Reachy Mini Wireless avec mon agent IA                                               |
 
 **Technologies :** `Python` · `Tkinter` · `Bash` · `Raspberry Pi` · `Ollama` · `Groq` · `Bot Telegram` · `WireGuard`
 
