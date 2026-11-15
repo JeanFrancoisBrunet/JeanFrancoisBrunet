@@ -29,7 +29,7 @@ Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVM
 
 ### 🎓 Lean & Qualité
 
-| Projet                                                                                | Descriptif                                                                                                                                                                               |
+| Projets                                                                               | Descriptif                                                                                                                                                                               |
 |:--                                                                                    |:--                                                                                                                                                                                       |
 | 🎯 [**Mesure Distance (catapulte)**](https://github.com/JeanFrancoisBrunet/Catapulte) | Mesure instantanée de distance de lancer dans le cadre de formations Lean Six Sigma / DOE                                                                                                |
 | 🧩 [**Résolution Problèmes**](https://github.com/JeanFrancoisBrunet/Problem_Solving)  | Coach qui guide l'utilisateur à travers quatre méthodologies : **8D**, **A3**, **PDCA** et **Kaizen 6 points**                                                                           |
@@ -38,7 +38,7 @@ Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVM
 
 ### 🤖 IA & Robotique
 
-| Projet                                                                              | Descriptif                                                                                                    |
+| Projets                                                                             | Descriptif                                                                                                    |
 |:--                                                                                  |:--                                                                                                            |
 | 🤖 [**Agent Groq**](https://github.com/JeanFrancoisBrunet/Agent_Groq)               | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                                  |
 | 🧠 [**LLM Raspberry Pi 5**](https://github.com/JeanFrancoisBrunet/LLM_local_Ollama) | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama (application + adaptée à un Pi / WebUI) |
@@ -48,7 +48,7 @@ Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVM
 
 ### 🛡️ Système, Réseau & Sécurité
 
-| Projet                                                                                         | Descriptif                                                                                                                                                                    |
+| Projets                                                                                        | Descriptif                                                                                                                                                                    |
 |:--                                                                                             |:--                                                                                                                                                                            |
 | 💾 [**Sauvegarde NVMe**](https://github.com/JeanFrancoisBrunet/Backup-NVMe)                    | Sauvegarde d'un SSD NVMe 1To vers USB/SD                                                                                                                                      |
 | 🛡️ [**Protection Pi 5**](https://github.com/JeanFrancoisBrunet/Securite_Systeme_Raspberry_Pi5) | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                                                                                          |
@@ -56,7 +56,7 @@ Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVM
 
 ### 🧰 Autres
 
-| Projet                                                                                              | Descriptif                                                                                                                                                                 |
+| Projets                                                                                             | Descriptif                                                                                                                                                                 |
 |:--                                                                                                  |:--                                                                                                                                                                         |
 | 📈 [**Tableau de bord Boursier**](https://github.com/JeanFrancoisBrunet/Bourse-Dashboard)           | Tableau de bord boursier (Tkinter) + bot Telegram                                                                                                                          |
 | 🎲 [**Tableau de bord Loto**](https://github.com/JeanFrancoisBrunet/Loto_Dashboard)                 | Historique et analyse des tirages du Loto (Tkinter)                                                                                                                        |
