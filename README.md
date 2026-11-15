@@ -23,24 +23,47 @@ Un récit d'apprentissage où Jef, chargé de déployer l'Excellence Opérationn
 
 ---
 
-## 🛠️ Créateur de Projets (Raspberry Pi 5 & Python)
+## 🛠️ Créateur de Projets (Raspberry Pi 5, Python & R)
 
-Quand je ne fais pas de Lean, je développe des outils pour mon Raspberry Pi 5 :
+Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVMe). Les premiers servent de support concret à mes formations Six Sigma et DOE et à mes enseignements : le code est au service de la pédagogie Lean. Les autres sont des projets d'exploration que je partage volontiers.
 
-| Projet                                  | Descriptif                                                                                                 |
-|:--                                      |:--                                                                                                         |
-| 🤖 **Agent Groq**                       | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                               |
-| 🎯 **Mesure Distance (catapulte)**      | Mesure automatisée de distance de lancer dans le cadre de formations Lean Six Sigma / DOE                  |
-| 💾 **Sauvegarde NVMe**                  | Sauvegarde d'un SSD NVMe 1To vers USB/SD                                                                   |
-| 📈 **Tableau de bord Boursier**         | Tableau de bord boursier (Tkinter) + bot Telegram                                                          |
-| 🎲 **Tableau de bord Loto**             | Historique et analyse des tirages du Loto (Tkinter)                                                        |
-| 🧠 **LLM Raspberry Pi 5**               | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama                                      |
-| 📷 **Caméras Sony IMX...**              | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion  |
-| 🎙️ **Audio / Synthèse vocale**          | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper)                     |
-| 🛡️ **Protection Pi 5**                  | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                       |
-| 🦾 **Reachy Mini**                      | Intégration du robot Reachy Mini Wireless avec mon agent IA                                                |
+### 🎓 Lean & Qualité
 
-**Technologies :** `Linux` · `Python` · `Tkinter` · `Bash` · `Raspberry Pi` · `Ollama` · `Groq` · `Bot Telegram` · `WireGuard`
+| Projet                                                                                | Descriptif                                                                                                                                                                               |
+|:--                                                                                    |:--                                                                                                                                                                                       |
+| 🎯 [**Mesure Distance (catapulte)**](https://github.com/JeanFrancoisBrunet/Catapulte) | Mesure instantanée de distance de lancer dans le cadre de formations Lean Six Sigma / DOE                                                                                                |
+| 🧩 [**Résolution Problèmes**](https://github.com/JeanFrancoisBrunet/Problem_Solving)  | Coach qui guide l'utilisateur à travers quatre méthodologies : **8D**, **A3**, **PDCA** et **Kaizen 6 points**                                                                           |
+| 📊 [**Statistiques**](https://github.com/JeanFrancoisBrunet/Statistiques)             | Programme d'analyses statistiques dont les calculs sont réalisés par **R** ; l'application de bureau et le bot sont en **Python**                                                        |
+| 🧪 [**DOE**](https://github.com/JeanFrancoisBrunet/Design-of-Experiments)             | Application (Python / Tkinter) pour **construire et analyser des plans d'expériences** ; calculs statistiques et graphiques réalisés par **R**, interface de bureau et bot en **Python** |
+
+### 🤖 IA & Robotique
+
+| Projet                                                                              | Descriptif                                                                                                    |
+|:--                                                                                  |:--                                                                                                            |
+| 🤖 [**Agent Groq**](https://github.com/JeanFrancoisBrunet/Agent_Groq)               | Agent IA basé sur l'API Groq, avec intégration Telegram et gestion de Skills                                  |
+| 🧠 [**LLM Raspberry Pi 5**](https://github.com/JeanFrancoisBrunet/LLM_local_Ollama) | Interface multi-onglets pour dialoguer avec des LLM locaux via Ollama (application + adaptée à un Pi / WebUI) |
+| 🦾 [**Reachy Mini**](https://github.com/JeanFrancoisBrunet/Reachy_mini)             | Intégration du robot Reachy Mini Wireless avec mon agent IA                                                   |
+| 📧 [**Scan Emails**](https://github.com/JeanFrancoisBrunet/Scan_Emails)             | Script autonome de scan via un crontab, classification et réponse pour les 3 boîtes email de JFBConseils      |
+| ➗ [**Lean V4**](https://github.com/JeanFrancoisBrunet/Lean)                        | Initiation à la programmation Lean V4                                                                         |
+
+### 🛡️ Système, Réseau & Sécurité
+
+| Projet                                                                                         | Descriptif                                                                                                                                                                    |
+|:--                                                                                             |:--                                                                                                                                                                            |
+| 💾 [**Sauvegarde NVMe**](https://github.com/JeanFrancoisBrunet/Backup-NVMe)                    | Sauvegarde d'un SSD NVMe 1To vers USB/SD                                                                                                                                      |
+| 🛡️ [**Protection Pi 5**](https://github.com/JeanFrancoisBrunet/Securite_Systeme_Raspberry_Pi5) | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                                                                                          |
+| 📍 [**Géolocalisation**](https://github.com/JeanFrancoisBrunet/Geolocalisation-S23)            | Suivi de position et de télémétrie (vitesse, batterie, accéléromètre, luminosité, Wi-Fi, réseau mobile) d'un Samsung S23, via un tunnel WireGuard chiffré et un serveur Flask |
+
+### 🧰 Divers
+
+| Projet                                                                                              | Descriptif                                                                                                                                                                 |
+|:--                                                                                                  |:--                                                                                                                                                                         |
+| 📈 [**Tableau de bord Boursier**](https://github.com/JeanFrancoisBrunet/Bourse-Dashboard)           | Tableau de bord boursier (Tkinter) + bot Telegram                                                                                                                          |
+| 🎲 [**Tableau de bord Loto**](https://github.com/JeanFrancoisBrunet/Loto_Dashboard)                 | Historique et analyse des tirages du Loto (Tkinter)                                                                                                                        |
+| 📷 [**Caméras Sony IMX...**](https://github.com/JeanFrancoisBrunet/Cameras_Sony_IMX)                | Pilotage des caméras IMX219 / IMX708 / IMX500 : photo, IA, détection de mouvement, timelapse, slow motion                                                                  |
+| 🎙️ [**Audio / Synthèse vocale**](https://github.com/JeanFrancoisBrunet/Studio_Audio-TTS-Record-STT) | Synthèse vocale (eSpeak NG + MBROLA), enregistrement et transcription (Faster-Whisper) · voir aussi le projet dédié [eSpeak](https://github.com/JeanFrancoisBrunet/eSpeak) |
+
+**Technologies :** `Linux` · `Python` · `R` · `Tkinter` · `Bash` · `Raspberry Pi` · `Ollama` · `Groq` · `Bot Telegram` · `WireGuard`
 
 ---
 
@@ -49,6 +72,8 @@ Quand je ne fais pas de Lean, je développe des outils pour mon Raspberry Pi 5 :
 - 💼 **LinkedIn** : [Jean-François Brunet](https://www.linkedin.com/in/jean-fran%C3%A7ois-brunet-lean-management/)
 - ▶️ **YouTube** : [Le Joueur de Flux](https://www.youtube.com/@lejoueurdeflux)
 - 📬 **Contact** : [jeanfrancois.brunet@outlook.fr](mailto:jeanfrancois.brunet@outlook.fr)
+
+**Un conseil « Lean », un accompagnement (coaching de dirigeant), une formation à organiser ? Écrivez-moi.**
 
 ---
 
