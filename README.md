@@ -54,7 +54,7 @@ Je développe des applications sur mon Raspberry Pi 5 (16 Go RAM et 1 To sur NVM
 | 🛡️ [**Protection Pi 5**](https://github.com/JeanFrancoisBrunet/Securite_Systeme_Raspberry_Pi5) | Console de sécurité : ClamAV, Fail2Ban, UFW, WireGuard, surveillance                                                                                                          |
 | 📍 [**Géolocalisation**](https://github.com/JeanFrancoisBrunet/Geolocalisation-S23)            | Suivi de position et de télémétrie (vitesse, batterie, accéléromètre, luminosité, Wi-Fi, réseau mobile) d'un Samsung S23, via un tunnel WireGuard chiffré et un serveur Flask |
 
-### 🧰 Divers
+### 🧰 Autres
 
 | Projet                                                                                              | Descriptif                                                                                                                                                                 |
 |:--                                                                                                  |:--                                                                                                                                                                         |
